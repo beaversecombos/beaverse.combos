@@ -3,9 +3,24 @@
 <head>
   <meta charset="utf-8">
   <title>BeaVerse Combos</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <h1>Hi Bea</h1>
-  <p>Your pastel site is alive ✨</p>
+  <div class="window">
+    <div class="window-top">
+      <span class="window-title">BeaVerse.exe</span>
+      <span class="window-icons">(｡•‿•｡)</span>
+    </div>
+
+    <div class="window-menu">
+      File &nbsp; Edit &nbsp; View &nbsp; Help
+    </div>
+
+    <div class="window-content">
+      <h1>Welcome to BeaVerse Combos</h1>
+      <p>This is your pastel retro homepage. Soon this will show your emoji combos, categories, and team info.</p>
+    </div>
+  </div>
 </body>
 </html>
